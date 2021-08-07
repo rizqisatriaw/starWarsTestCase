@@ -1,0 +1,3 @@
+class Strings {
+  String API_KEY = "563492ad6f917000010000011a43dc81925140a09228cc9e605ccc46";
+}
